@@ -1,0 +1,4 @@
+github.com/vadimi/go-http-ntlm v1.0.3 h1:o6n2vAtP1MlLT73jIXuQYryIcWzXyMN0SCQWZ2QVLLc=
+github.com/vadimi/go-http-ntlm v1.0.3/go.mod h1:SwhhmybQ4Yn1mC53UPmQ6MCrBX6UvJHlS1Xt89OmM9M=
+github.com/vadimi/go-ntlm v1.0.1 h1:Pi8xmngo7CQQl4Hd8J6rDcxY1LZKwyutTvx4W035Hto=
+github.com/vadimi/go-ntlm v1.0.1/go.mod h1:hPTY60eLSKGj9oUJAB+kZiLs2Cg5eKdH60aLczM9rMg=
